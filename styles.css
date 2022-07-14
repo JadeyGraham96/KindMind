@@ -1,0 +1,523 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+/* Add a dark background color with a little bit see-through */
+.navbar {
+    margin-bottom: 0;
+    background-color: #040404!important;
+    border: 0;
+    font-size: 16px !important;
+  }
+  nav.navbar.navbar-expand-lg.navbar-light.bg-dark {
+    background-color: #1e1e1e!important;
+}
+.navbar-nav li.active a {
+    color: #fff !important;
+    background-color: #1e1e1e !important;
+}
+input.form-control.mr-sm-2 {
+    border-radius: 20px !important;
+}
+button.btn.btn-outline-success.my-2.my-sm-0 {
+    color: white !important;
+    background-color: green !important;
+    border-radius: 10px !important;
+}
+footer.container-fluid.fixed-bottom {
+    background-color: #1e1e1e;;
+    color: white;
+    padding: 12px;
+    text-align: center;
+}
+img.logo-head {
+    width: 70px;
+}
+img.logo-jumbo {
+    width: 100%;
+    height: auto;
+}
+img.flower {
+    width: 100%;
+    height: auto;
+    padding-top: 13px;
+}
+.jumbotron {
+    background-image: url("/GU/images/background.png");
+    background-color: black !important;
+    margin-bottom: 0rem !important;
+
+}
+.content, .main {
+    background-color: black;
+    color: white;
+}
+.col-md-8 {
+    padding-top: 140px;
+}
+img.home-tips {
+    width: 100%;
+    border: 5px solid white;
+}
+h2 {
+    color: #47ffee !important;
+    text-shadow: 0 0 7px #f6fdff, 0 0 10px #39a0ab, 0 0 21px #1b6a72, 0 0 42px #42cdbc, 0 0 82px #58c5bc, 0 0 92px #a6adaa, 0 0 102px #5d5c5d, 0 0 151px #5a5b5c !important;
+    font-family: 'Sacramento', cursive !important;
+    font-size: 60px !important;
+}
+body{
+    background-color: black;
+    background-image: url("/GU/images/background.png") !important;
+}
+
+  /* Add a gray color to all navbar links */
+  .navbar li a, .navbar .navbar-brand {
+    color: #d5d5d5 !important;
+  }
+  
+  /* On hover, the links will turn white */
+  .navbar-nav li a:hover {
+    color: #fff !important;
+  }
+  
+  /* The active link */
+  .navbar-nav li.active a {
+    color: #fff !important;
+  }
+  
+  /* Dropdown */
+  .open .dropdown-toggle {
+    color: #fff ;
+  }
+  h2.contact-head {
+    color: #e17eff !important;
+    text-shadow: 0 0 7px #ff16d8, 0 0 10px #fd63f0, 0 0 21px #61095a, 0 0 42px #e6a0d4, 0 0 82px #c793b6, 0 0 92px #cf5eda, 0 0 102px #5d5c5d, 0 0 151px #5a5b5c !important;
+    font-family: 'Sacramento', cursive !important;
+    font-size: 60px !important;
+}
+p.about, p.contact {
+    width: 70%;
+}
+.contact-form {
+    width: 70%;
+    padding-bottom: 138px;
+}
+.health {
+    background-color: black !important;
+    color: white !important;
+    padding-top: 80px !important;
+    padding-bottom: 70px !important;
+}
+h2.video-head {
+    padding-top: 30px;
+}
+
+.health .row:nth-child(even) {
+    background: #181818;
+}
+.health .row {
+    padding-bottom: 35px;
+    padding-top: 35px;
+}
+img.health {
+    border: 5px solid white;
+}
+p.tips {
+    padding-right: 100px;
+    
+}
+.row {
+    padding-top: 50px;
+}
+.col-md-12 {
+    background-color: black !important;
+}
+img.logo-jumbo-log {
+    width: 100%;
+    margin-top: -147px;
+}
+.login-bttn {
+    width: 100%;
+    margin-top: 34px;
+}
+button.btn.btn-primary {
+    width: 100%;
+}
+.login {
+    margin-top: -247px;
+    /* padding: 139px; */
+    padding-right: 7%;
+    padding-left: 17%;
+    /* align-content: center !important; */
+    width: 100%;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #4e0874 !important;
+    border-color: #4a085e !important;
+}
+button.btn.btn-primary {
+    width: 82%;
+}
+label.col-sm-2.col-form-label {
+    color: black;
+}
+.form-group {
+    margin-bottom: -3rem;
+}
+button.btn.btn-primary {
+    margin-top: 20px;
+    margin-bottom: 200px;
+}
+.sign-up {
+    /* display: inline-block; */
+    font-size: 20px;
+    color: white;
+}
+.sign-up {
+    /* display: inline-block; */
+    font-size: 20px;
+    margin-top: -115px;
+    color: white;
+}
+.sign-up p {
+    display: flex;
+}
+a.nav-link {
+    margin-top: -9px;
+}
+.message {
+    padding-left: 218px;
+    font-size: 34px;
+    color: #47ffee !important;
+    text-shadow: 0 0 7px #f6fdff, 0 0 10px #39a0ab, 0 0 21px #1b6a72, 0 0 42px #42cdbc, 0 0 82px #58c5bc, 0 0 92px #a6adaa, 0 0 102px #5d5c5d, 0 0 151px #5a5b5c !important;
+    font-family: 'Sacramento', cursive !important;
+    font-size: 60px !important;
+}
+.userSection {
+    border-radius: 24px;
+    margin-bottom: 126px;
+    padding-bottom: 45px;
+    border: 4px solid white;
+    background-image: url("/GU/images/background.png") !important;
+}
+.buttons {
+    padding-right: 54px;
+    padding-left: 519px;
+    width: 100%;
+    display: inline-grid;
+}
+button.btn.btn-journal,button.btn.btn-goals,button.btn.btn-logout,button.btn.btn-videos {
+    margin-bottom: 10px;
+}
+button.btn.btn-videos {
+    background-color: #3cb1a8;
+    color: white;
+    border: 2px solid white;
+}
+button.btn.btn-journal {
+    background-color: #2f8585;
+    color: white;
+    border: 2px solid white;
+}
+button.btn.btn-goals{
+    background-color: #1b5050;
+    color: white;
+    border: 2px solid white;
+}
+button.btn.btn-logout{
+    background-color: #0c2626;;
+    color: white;
+    border: 1px solid white;
+}
+.userArea {
+    background-color: black;
+}
+img.about {
+    padding-left: 237px !important;
+}
+svg.bi.bi-star {
+    color: white !important;
+}
+a.btn.btn-submit.prod-btn {
+    background-color: grey;
+    margin-top: 32px;
+    /* padding-left: 9px; */
+    margin-left: 27px;
+    color: white;
+}
+video {
+    width: 100% !important;
+    padding: 290px !important;
+}
+h2.video-headPage {
+    padding-top: 84px !important;
+    margin-bottom: -249px !important;
+}
+.navbar-toggler:not(:disabled):not(.disabled) {
+    background: #847d89 !important;
+}
+.col-md-9 {
+    margin-bottom: 123px;
+}
+.login label {
+    display: none;
+}
+/* Mobile Screens */
+@media screen and (max-width: 768px) {
+    p.home {
+        padding: 12px;
+    }
+    img.flower {
+        width: 100% !important;
+        height: 0 auto !important;
+    }
+    body {
+        width: 100% !important;
+    }
+    h2.about {
+        margin-top: 0px !important; 
+        padding-left: 0px!important;
+    }
+    .col-md-8,  .col-md-4, .col-md-9, .col-md-3 {
+        width: 100% !important;
+    }
+    img.about {
+        padding: 0 !important;
+        width: 100% !important;
+    }
+    img.tipsImg {
+        width: 100% !important;
+    }
+    h2 {
+        text-align: center !important;
+    }
+    .col-md-3 form {
+        width: 90% !important;
+        margin: 0 auto 30px !important; 
+    }
+    .col-md-9 .row {
+        width: 90% !important;
+        margin: 0 auto;
+        float: none !important;
+    }
+    a.btn.btn-submit.prod-btn {
+        width: 70% !important;
+        margin-bottom: 3rem !important;
+    }
+    .prodimg {
+        width: 100% !important;
+        margin-bottom: 3rem !important;
+    }
+    .login {
+        padding: 0 !important;
+        width: 90% !important;
+        margin: 0 auto !important;
+    }
+    .login-bttn button.btn.btn-primary {
+        margin: 20px auto 200px !important;
+        display: block !important;
+    }
+    .sign-up {
+        margin: -135px auto 0 !important;
+        height: 500px !important;
+    }
+    .message, .buttons {
+        padding: 0 !important;
+    }
+    .user-photo {
+        width: 100%!important;
+    }
+    .userSection {
+        width: 90%!important;
+        margin: 0 auto !important;
+        margin-bottom: 110px !important;
+    }
+    .userSection .col-md-8 {
+        padding-top: 0px !important;
+        text-align: center !important;
+        margin-bottom: 3rem !important;
+    }
+    .buttons button {
+        width: 70% !important;
+        margin: 0 auto !important;
+        display: block !important;
+    }
+    p.about, p.contact {
+        width: 90% !important;
+        margin: 30px auto !important;
+        margin-bottom: 72px !important;
+    }
+    .content .col-md-8 {
+        padding-top: 0 !important;
+    }
+    .contact-form {
+        width: 90% !important;
+        padding-bottom: 138px !important;
+        margin: 50px auto 0 !important;
+    }
+    .contact-head + form button {
+        margin: 40px auto 0 !important;
+        display: block !important;
+    }
+    .form-group.form-check {
+        margin: 40px auto 0 !important;
+        display: block!important;
+        width: fit-content !important;
+    }
+    img.logo-jumbo {
+        width: 100% !important;
+        height: auto !important;
+    }
+    .jumbotron {
+        background-image: url(/GU/images/background.png);
+        min-height: 100% !important;
+        /* background-attachment: fixed; */
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+        -moz-background-size: cover !important;
+        border-bottom: 5px solid white !important;
+    }
+    .col-md-3 {
+        padding: 34px !important;
+    }
+    .content .col-md-8 {
+        padding-top: 21px !important;
+    }
+    .content {
+        background-color: black !important;
+        color: white !important;
+        margin-bottom: 63px !important;
+    }
+    .col-md-3 {
+        margin-bottom: 35px !important;
+    }
+    .main {
+        padding: 23px !important;
+    }
+    p.tips {
+        padding-right: 0px !important;
+    }
+    body {
+        /* background-color: black; */
+        background-image: url(/GU/images/background.png) !important;
+        background-size: cover !important;
+        background-repeat: no-repeat !important;
+    }
+    .top-login {
+        margin-top: 255px !important;
+    }
+    video {
+        width: 100% !important;
+        margin-top: 240px !important;
+        margin-bottom: 130px !important;
+        padding: 0px !important;
+    }
+    .bottom {
+        margin-bottom: 33px !important;
+    }
+    .app{
+        width: 100% !important;
+    }
+    h2.calendar-left-h2 {
+        font-size: 18px !important;
+        margin-top: 9px !important;
+    }
+    .col-sm-10 {
+        padding-left: 81px;
+        margin-top: -33px;
+    }
+    .outer .flip-container-left, .outer .front-left, .outer .back-left {
+    width: 19vw !important;
+    height: 48vw !important;
+}
+}
+/* Tablet Screens */
+@media screen and (min-width: 769px)and (max-device-width: 1024px) {
+    .col-md-8 {
+        margin-bottom: 100px!important;
+        width: 100% !important;
+    }
+    img.flower {
+        width: 156% !important;
+        height: 351px !important;
+        padding-top: 13px !important;
+    }
+    img.about {
+        padding-left: 0px !important; 
+    }
+    h2.about {
+        margin-top: 100px;
+        padding-left: 76px !important;
+    }
+    p.about {
+        margin-top: 25px !important;
+        padding-left: 30px;
+    }
+    img.tipsImg {
+        width: 330% !important;
+        padding-left: 99px !important;
+        padding: 103px;
+    }
+    h3 {
+        margin-top: 613px !important;
+    }
+    #tips .col-md-4{
+        max-width: 16.333333% !important;
+    }
+    video {
+        width: 113% !important;
+        margin-top: 136px !important;
+        padding: 139px !important;
+        padding-right: 208px;
+        margin-bottom: 490px !important;
+    }
+    img.logo-jumbo-log {
+        width: 100%;
+        margin-top: 100px;
+        margin-bottom: 20%;
+    }
+    h2.calendar-left-h2 {
+        font-size: 41px !important;
+        margin-top: 7px !important;
+    }
+    .outer .flip-container-left, .outer .front-left, .outer .back-left {
+    width: 19vw !important;
+    margin-bottom: 516px !important;
+    }
+    .app {
+        width: 80% !important;
+        margin-bottom: 75% !important;
+    }
+    .userArea {
+        background-color: black;
+        height: 88vh !important;
+    }
+    .buttons {
+        padding: 26px;
+    }
+}
+/* Tablet landscape and Laptop screens */
+@media screen and (min-width: 1025px)and (max-device-width: 1723px) {
+    img.about {
+        padding-left: 12px !important;
+    }
+    .health .col-md-4, .health .col-md-8 {
+        -webkit-box-flex: 0 !important;
+        -ms-flex: 0 0 50% !important;
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+    }
+    .health .col-md-8 {
+        padding: 0 1rem !important;
+    }
+    img.logo-jumbo-log {
+        margin-top: 4px;
+        margin-bottom: 74px !important;
+    }
+    .userArea {
+        background-color: black;
+        height: 150vh !important;
+    }
+    .app {
+        width: 60% !important;
+    }
+}
+
